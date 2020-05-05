@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b54037dc-4231-49aa-8fce-35ee053314fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software\SpecialSoftware\Maven\respository" />
+        <option name="userSettingsFile" value="D:\Software\SpecialSoftware\Maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bNXDGDIWjPsXXqngHaFt2KjJLJ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/JUnit" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15351993" />
+    <property name="project.structure.side.proportion" value="0.23044838" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="junit4.runner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\Java\Java_Programe_Idea\Example_Junit\src\main\java\JUnit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ParameterizedTests.palindromes">
+    <configuration name="All in Example_Junit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Example_Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertionsTests.standardAssertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Example_Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit5.interfaceAndDefaultMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit5" />
+      <option name="MAIN_CLASS_NAME" value="junit5.AssertionsTests" />
+      <option name="METHOD_NAME" value="standardAssertions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMockitoTests.simpleTestWithInjectedMock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Example_Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit5.interfaceAndDefaultMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit5" />
+      <option name="MAIN_CLASS_NAME" value="junit5.MyMockitoTests" />
+      <option name="METHOD_NAME" value="simpleTestWithInjectedMock(junit5.entity.Person)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterizedTests.palindromes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Example_Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit5" />
+      <option name="MAIN_CLASS_NAME" value="junit5.ParameterizedTests" />
+      <option name="METHOD_NAME" value="palindromes(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInterfaceDemo.isEqualValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Example_Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit5.interfaceAndDefaultMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit5.interfaceAndDefaultMethod" />
+      <option name="MAIN_CLASS_NAME" value="junit5.interfaceAndDefaultMethod.TestInterfaceDemo" />
+      <option name="METHOD_NAME" value="isEqualValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ParameterizedTests.palindromes" />
+        <item itemvalue="JUnit.TestInterfaceDemo.isEqualValue" />
+        <item itemvalue="JUnit.MyMockitoTests.simpleTestWithInjectedMock" />
+        <item itemvalue="JUnit.AssertionsTests.standardAssertions" />
+        <item itemvalue="JUnit.All in Example_Junit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b54037dc-4231-49aa-8fce-35ee053314fd" name="Default Changelist" comment="" />
+      <created>1588473403920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588473403920</updated>
+      <workItem from="1588473406839" duration="2127000" />
+      <workItem from="1588475618587" duration="5689000" />
+      <workItem from="1588489030218" duration="4768000" />
+      <workItem from="1588494673951" duration="4638000" />
+      <workItem from="1588560236918" duration="509000" />
+      <workItem from="1588560782388" duration="8384000" />
+      <workItem from="1588588910632" duration="3262000" />
+      <workItem from="1588640421930" duration="1395000" />
+      <workItem from="1588641993415" duration="265000" />
+      <workItem from="1588642295327" duration="15550000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="105" width="814" height="730" key="#Intentions" timestamp="1588656473762">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="105" width="814" height="730" key="#Intentions/0.30.1536.834@0.30.1536.834" timestamp="1588656473762" />
+    <state x="100" y="100" width="1336" height="664" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588488142310">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="100" y="100" width="1336" height="664" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.30.1536.834@0.30.1536.834" timestamp="1588488142310" />
+    <state x="570" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1588487250892">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="570" y="163" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1588487250892" />
+    <state x="449" y="183" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588640652777">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="449" y="183" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.30.1536.834@0.30.1536.834" timestamp="1588640652777" />
+    <state x="542" y="202" key="FileChooserDialogImpl" timestamp="1588599195670">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="542" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1588599195670" />
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom" timestamp="1588693308723">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1588693308723" />
+    <state width="1493" height="217" key="GridCell.Tab.0.center" timestamp="1588693308722">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1588693308722" />
+    <state width="1493" height="217" key="GridCell.Tab.0.left" timestamp="1588693308722">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1588693308721" />
+    <state width="1493" height="217" key="GridCell.Tab.0.right" timestamp="1588693308722">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1588693308722" />
+    <state width="1493" height="272" key="GridCell.Tab.1.bottom" timestamp="1588561879795">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="272" key="GridCell.Tab.1.bottom/0.30.1536.834@0.30.1536.834" timestamp="1588561879795" />
+    <state width="1493" height="272" key="GridCell.Tab.1.center" timestamp="1588561879795">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="272" key="GridCell.Tab.1.center/0.30.1536.834@0.30.1536.834" timestamp="1588561879795" />
+    <state width="1493" height="272" key="GridCell.Tab.1.left" timestamp="1588561879794">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="272" key="GridCell.Tab.1.left/0.30.1536.834@0.30.1536.834" timestamp="1588561879794" />
+    <state width="1493" height="272" key="GridCell.Tab.1.right" timestamp="1588561879795">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="272" key="GridCell.Tab.1.right/0.30.1536.834@0.30.1536.834" timestamp="1588561879795" />
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog" timestamp="1588656321870">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog/0.30.1536.834@0.30.1536.834" timestamp="1588656321870" />
+    <state x="249" y="30" width="1125" height="710" key="SettingsEditor" timestamp="1588561656630">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="249" y="30" width="1125" height="710" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1588561656630" />
+    <state width="498" height="497" key="SwitcherDM" timestamp="1588692836008">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="498" height="497" key="SwitcherDM/0.30.1536.834@0.30.1536.834" timestamp="1588692836008" />
+    <state x="460" y="180" width="743" height="534" key="find.popup" timestamp="1588691104919">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="460" y="180" width="743" height="534" key="find.popup/0.30.1536.834@0.30.1536.834" timestamp="1588691104918" />
+    <state x="2" y="108" key="new project wizard" timestamp="1588589021731">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="2" y="108" key="new project wizard/0.30.1536.834@0.30.1536.834" timestamp="1588589021731" />
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1588642184698">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1588642184698" />
+  </component>
+</project>
