@@ -1,4 +1,4 @@
-package junit5.entity;
+package junit5.extension;
 
 import org.junit.jupiter.api.extension.Extension;
 

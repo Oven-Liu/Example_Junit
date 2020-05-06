@@ -1,6 +1,6 @@
 package junit5;
 
-import junit5.entity.MockitoExtension;
+import junit5.extension.MockitoExtension;
 import junit5.entity.Person;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

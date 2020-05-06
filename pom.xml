@@ -80,6 +80,27 @@
       <scope>test</scope>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.junit.platform/junit-platform-runner -->
+    <dependency>
+      <groupId>org.junit.platform</groupId>
+      <artifactId>junit-platform-runner</artifactId>
+      <version>1.6.2</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.junit.platform/junit-platform-console -->
+    <dependency>
+      <groupId>org.junit.platform</groupId>
+      <artifactId>junit-platform-console</artifactId>
+      <version>1.6.2</version>
+    </dependency>
+
+      <!-- https://mvnrepository.com/artifact/org.junit.platform/junit-platform-console-standalone -->
+    <dependency>
+      <groupId>org.junit.platform</groupId>
+      <artifactId>junit-platform-console-standalone</artifactId>
+      <version>1.6.2</version>
+    </dependency>
+
     <!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-all -->
     <dependency>
       <groupId>org.hamcrest</groupId>
