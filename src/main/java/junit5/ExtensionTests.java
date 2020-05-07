@@ -14,7 +14,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 // @ExtendWith(BarExtension.class)
 public class ExtensionTests {
 
-    @ExtendWith(MockitoExtension.class)
+    // @ExtendWith(MockitoExtension.class)
     @Test
     void mockTest() {
         // ...

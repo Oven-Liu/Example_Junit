@@ -1,4 +1,4 @@
-package junit5;
+package junit5.constructorAndMethodDependence;
 
 import org.junit.jupiter.api.*;
 
